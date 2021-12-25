@@ -32,7 +32,7 @@ I provided two parameters:
 * population (```-p```): you can control the population size
 * fitness evaluations (```-f```): you can control the limit of the total number of fitness evaluations
 
-You can use it like below,
+You can use it like below.
 ```
 python tsp_solver.py a280.tsp -t 50 -f 1000
 ```
