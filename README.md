@@ -34,5 +34,5 @@ I provided two parameters:
 
 You can use it like below.
 ```
-python tsp_solver.py a280.tsp -t 50 -f 1000
+python tsp_solver.py a280.tsp -p 50 -f 1000
 ```
