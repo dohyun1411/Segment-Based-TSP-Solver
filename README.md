@@ -20,7 +20,7 @@ pip install click
 To solve a specific tsp file,
 ```
 python tsp_solver.py [tsp file]
-python tsp_solver.py a280.tsp
+python tsp_solver.py berlin52.tsp
 ```
 
 Then, it will create a ```solution.csv``` file. To see the content of it,
@@ -34,5 +34,5 @@ I provided two parameters:
 
 You can use it like below.
 ```
-python tsp_solver.py a280.tsp -p 50 -f 1000
+python tsp_solver.py berlin52.tsp -p 50 -f 1000
 ```
