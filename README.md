@@ -1,7 +1,7 @@
 # Segment Based TSP Solver
 Segment based TSP solver, which is the combination of nearest neighbor algorithm and genetic algorithm.
 
-For more about this solver, please refer [report](./report.pdf).
+For more about this solver, please refer the [report](./report.pdf).
 
 ## Requirements
 There are some requirements for this code, please install them by
